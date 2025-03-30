@@ -5,7 +5,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
+| Wen Long Chen | S152326 |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
 
